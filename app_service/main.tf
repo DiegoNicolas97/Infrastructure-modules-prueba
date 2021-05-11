@@ -4,7 +4,7 @@ terraform {
 
 }
 
-resource "azurerm_app_service" "app_service_terraform" {
+resource "azurerm_app_service" "asterraform" {
 
   name                = var.app_service_name
   location            = var.location
