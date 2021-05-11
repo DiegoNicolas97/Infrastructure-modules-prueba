@@ -11,6 +11,6 @@ variable "resource_group_name" {
 }
 
 variable "service_plan_id" {
-  description = "Id of the app service plan"
+  description = "Id of the app service plan "
 }
 
